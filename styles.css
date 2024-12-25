@@ -1,0 +1,25 @@
+main {
+  background-color: rgb(208, 208, 208);
+  text-align: center;
+}
+.title,
+.description {
+  text-align: center;
+}
+
+.image {
+  max-width: 100%;
+  display: block;
+}
+.img-div {
+  background-color: white;
+  padding: 10px;
+}
+.img-caption {
+  display: block;
+}
+.tribute-info {
+  text-align: left;
+  margin-right: 300px;
+  margin-left: 300px;
+}
